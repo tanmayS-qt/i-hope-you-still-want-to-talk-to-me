@@ -588,7 +588,7 @@ function App() {
                   </p>
                   <p className="text-right font-bold mt-4">
                     Yours sincerely,<br />
-                    Kuchupuchuuuu
+                    chunmun/buddhihein
                   </p>
                   <div className="text-center mt-3">
                     <span className="text-xs text-gray-500">P.S. Your forgiveness means the world to me.</span>
